@@ -9,4 +9,4 @@ export default {
 		//	use async-await or promises
 		//	await storeValue('varName', 'hello world')
 	}
-}
+}sfsd
